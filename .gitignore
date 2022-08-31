@@ -1,0 +1,4 @@
+//anything that we don't want pushed to github
+node_modules
+.env
+//.env is the file you don't want public, passwords,keys stuff like that are in there. 
